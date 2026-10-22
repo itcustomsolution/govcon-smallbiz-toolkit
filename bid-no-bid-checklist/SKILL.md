@@ -1,6 +1,6 @@
 ---
 name: bid-no-bid-checklist
-description: A rigorous bid/no-bid triage checklist for small government contractors. Use before committing time to any RFP, RFQ, IFB, or sources-sought response. Walks through solicitation-type gating, compliance kill-checks (attestations you cannot honestly sign), insurance and bonding requirements, past-performance honesty rules, submission mechanics, and small-business participation goals. Helps a small firm decide fast whether an opportunity is winnable and worth pursuing, and helps avoid the two most expensive mistakes: bidding something you cannot deliver, and fudging a certification to stay in the running.
+description: "A rigorous bid/no-bid triage checklist for small government contractors. Use before committing time to any RFP, RFQ, IFB, or sources-sought response. Walks through solicitation-type gating, compliance kill-checks (attestations you cannot honestly sign), insurance and bonding requirements, past-performance honesty rules, submission mechanics, and small-business participation goals. Helps a small firm decide fast whether an opportunity is winnable and worth pursuing, and helps avoid the two most expensive mistakes: bidding something you cannot deliver, and fudging a certification to stay in the running."
 ---
 
 # Bid / No-Bid Triage Checklist for Small GovCon Firms

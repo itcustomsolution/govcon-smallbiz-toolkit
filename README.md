@@ -7,12 +7,12 @@ No sign-up, no upsell. Read it, or install the checklists as agent skills and le
 ## What's in here
 
 - **[bid-no-bid-checklist](bid-no-bid-checklist/SKILL.md)**: a rigorous bid/no-bid triage for small firms: solicitation-type gating, the compliance and attestation kill-checks that should make you no-bid rather than fudge a certification, insurance and bonding requirements with timing, past-performance honesty rules, submission-mechanics reality checks, and small-business participation goals.
-- **[sam-registration-checklist](sam-registration-checklist/SKILL.md)**: a clean, current walkthrough of registering in SAM.gov (UEI, CAGE, TIN matching), keeping NAICS and PSC codes accurate and free of retired-code traps, the federal socioeconomic programs and state/corporate diversity certifications, and the revalidation cadence that keeps you active.
+- **[sam-registration-checklist](sam-registration-checklist/SKILL.md)**: a checklist for registering in SAM.gov (UEI, CAGE, TIN matching), keeping NAICS and PSC codes accurate and free of retired-code traps, the federal socioeconomic programs and state/corporate diversity certifications, and the revalidation cadence that keeps you active.
 - **[smb-it-security-basics](smb-it-security-basics/SKILL.md)**: the pragmatic security baseline a good managed-service provider implements on day one: MFA, patching cadence, 3-2-1 backups with restore testing, email security, least-privilege access reviews, and clean offboarding.
 
 ## Who made this
 
-Published by **IT Custom Solution LLC**, an NMSDC-certified Minority Business Enterprise and a multi-practice technology and services firm. We wrote these because they are the checklists we wish more small firms had before they burned hours on unwinnable bids or claimed a certification they had not earned. The gift is the point.
+Published by **IT Custom Solution LLC**, a multi-practice technology and services firm. We wrote these because they are the checklists we wish more small firms had before they burned hours on unwinnable bids or claimed a certification they had not earned. The gift is the point.
 
 ## How to use it
 

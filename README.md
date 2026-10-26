@@ -4,6 +4,30 @@ A small, free set of practical checklists for small businesses that sell to (or 
 
 No sign-up, no upsell. Read it, or install the checklists as agent skills and let your assistant walk you through them.
 
+## Choose a starting point
+
+| Situation | Start here | Useful result to keep |
+| --- | --- | --- |
+| You have an opportunity and need to decide whether to spend proposal time | [Bid / no-bid checklist](bid-no-bid-checklist/SKILL.md) | Your decision, unresolved gates and the source for each claim |
+| You need to prepare or renew a federal registration | [SAM.gov registration checklist](sam-registration-checklist/SKILL.md) | A list of missing information and current official guidance to verify |
+| You need a small-office security starting point | [IT security basics](smb-it-security-basics/SKILL.md) | Named owners and next steps for the baseline controls |
+
+The result is your own reviewed working record. These Markdown files do not register a business, submit a bid, change a system or establish a certification.
+
+## Status and verification
+
+As of **26 October 2026**, this is a source-distributed set of three checklists, with no tagged GitHub release or hosted Actions test run. Each folder contains `SKILL.md` and its [MIT license](LICENSE). You can read the files without installing anything.
+
+To check a local copy using only the Python standard library:
+
+```sh
+git clone https://github.com/itcustomsolution/govcon-smallbiz-toolkit.git
+cd govcon-smallbiz-toolkit
+python3 tests/check_toolkit.py
+```
+
+Expected: `3 skills checked, 0 problem(s)`. This verifies packaging and the required boundary text. It does not establish the legal currency of every checklist item or evaluate an assistant's behavior. See the [synthetic evaluation procedure](tests/EVALUATION.md) for a separate manual exercise.
+
 ## What's in here
 
 - **[bid-no-bid-checklist](bid-no-bid-checklist/SKILL.md)**: a rigorous bid/no-bid triage for small firms: solicitation-type gating, the compliance and attestation kill-checks that should make you no-bid rather than fudge a certification, insurance and bonding requirements with timing, past-performance honesty rules, submission-mechanics reality checks, and small-business participation goals.
